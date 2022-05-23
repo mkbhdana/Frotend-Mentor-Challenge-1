@@ -15,4 +15,4 @@ Users should be able to:
 - Tailwind CSS
 - Mobile-first workflow
 
-link - huddle-bsi.page.com
+link - [huddle-bsi.page.com](https://huddle-bsi.pages.dev/)
